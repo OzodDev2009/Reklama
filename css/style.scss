@@ -34,6 +34,10 @@ header {
         align-items: center;
         padding-top: 32px;
 
+        .btn:focus{
+            box-shadow: none;
+        }
+
         .btn-primary {
             width: 122px;
             height: 50px;
